@@ -39,6 +39,12 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
+- Install the project dependencies:
+  ```bash
+  Install Postman
+  Install Newman
+  Install newman-reporter-htmlextra
+
 - Clone this repository to your local machine:
 
   ```bash
@@ -48,12 +54,6 @@ Before you begin, ensure you have met the following requirements:
 
   ```bash
   cd Trello-Apis
-
-- Install the project dependencies:
-  ```bash
-  Install Postman
-  Install Newman
-  Install newman-reporter-htmlextra
 
 ## Usage
 
