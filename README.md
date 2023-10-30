@@ -44,6 +44,7 @@ Before you begin, ensure you have met the following requirements:
   Install Postman
   Install Newman
   Install newman-reporter-htmlextra
+  Install Java
 
 - Clone this repository to your local machine:
 
